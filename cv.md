@@ -17,5 +17,5 @@ Web and mobile interface design
 - E-mail - strikermddred@gmail.com
 - Phone - +375298851294
 - GitHub - [@vwstriker](https://github.com/vwstriker)
-- LinkedIn [@ivanchorny](https://www.linkedin.com/in/ivanchorny/)
-- Behance [@ivanchorny](https://www.behance.net/Ivanchorny)
+- LinkedIn - [@ivanchorny](https://www.linkedin.com/in/ivanchorny/)
+- Behance - [@ivanchorny](https://www.behance.net/Ivanchorny)
